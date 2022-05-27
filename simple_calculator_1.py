@@ -1,0 +1,10 @@
+print ("    " + "A Simple calculator using Python" + "   ")
+print ("The first number has to be larger than the second number")
+num1 = input("Enter num 1: ")
+num2 = input("Enter num 2: ")
+print("Sum is: " +str(int(num1)+int(num2)))
+print("Differnce is:" +str(int(num1)-int(num2)))
+print("Product is: " +str(int(num1)*int(num2)))
+print("Remainder is: " +str(int(num1)%int(num2)))
+print("Power is: " +str(int(num1)**int(num2)))
+
