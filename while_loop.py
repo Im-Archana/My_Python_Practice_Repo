@@ -1,13 +1,3 @@
-#def while_eg(number):
-#    print("Starting to loop x")
- #   x=0
-  #  while x<5:
-   #     print(x)
-    #    x=x+1
-    #print("Finished looping x")
-    
-#number=input("Press any number please!!!")
-#while_eg(number)
 
 print("While loop example")
 selection=input("Hello! Do you want to enter a number? Press y or n")
